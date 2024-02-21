@@ -4,7 +4,6 @@
 
 ### I'm a Student 🧙🏿‍♂️ ☕️
 
-##### Team Wordpress🧠
 
 
 ```PHP
